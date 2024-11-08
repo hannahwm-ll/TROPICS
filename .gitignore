@@ -1,0 +1,12 @@
+/sites/*/files/
+/sites/*/private/
+/vendor/
+/web/core/
+/composer.lock
+/.htaccess
+
+# Ignore IntelliJ configuration
+.idea/
+
+# Ignore DDEV configuration
+.ddev/

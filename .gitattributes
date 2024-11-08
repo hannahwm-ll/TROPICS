@@ -7,9 +7,6 @@
 # repository root directory. Drupal avoids making any assumptions about where it
 # is installed.
 
-# Enforce LF line endings for all text files
-* text=auto eol=lf
-
 # Define text file attributes.
 # - Treat them as text.
 # - Ensure no CRLF line-endings, neither on checkout nor on checkin.

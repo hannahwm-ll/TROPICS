@@ -1,0 +1,7 @@
+site_info.api:
+  path: '/api/site-info'
+  defaults:
+    _controller: '\Drupal\site_info\Controller\SiteInfoController::getSiteInfo'
+    _title: 'Site Info'
+  requirements:
+    _permission: 'access content'

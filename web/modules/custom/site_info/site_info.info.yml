@@ -1,0 +1,7 @@
+name: 'Site Info API'
+type: module
+description: 'Exposes site information like slogan and name via a custom API endpoint.'
+core_version_requirement: ^9 || ^10
+package: Custom
+dependencies:
+  - drupal:rest
